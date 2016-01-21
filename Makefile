@@ -14,4 +14,4 @@ virtualenv:
 env: virtualenv
 	virtualenv env
 
-.PHONY: virtualenv
+.PHONY: virtualenv dev deps
